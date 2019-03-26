@@ -17,7 +17,7 @@ module.exports = function(config) {
 
     frameworks: ['jasmine'],
 
-    browsers: ['Chrome'],
+    browsers: ['Chrome','Mozilla Firefox'],
 
     plugins: [
       'karma-chrome-launcher',
